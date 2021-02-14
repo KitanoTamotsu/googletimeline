@@ -1,2 +1,0 @@
-# googletimeline
-Alfred workflow
