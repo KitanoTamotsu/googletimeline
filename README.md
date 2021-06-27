@@ -1,4 +1,6 @@
 ### Google timeline.alfredworkflowのメモ
+[トップページに戻る](https://kitanotamotsu.github.io/)
+
 
 
 #### 機能：
