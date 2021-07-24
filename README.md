@@ -2,9 +2,6 @@
 #### 開発メモ
 ワークフロー
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/126853536-aaa978e7-db52-446e-9942-73c0781e7ef7.png">
-<br>RunScript
-<br><img width="600" src="https://user-images.githubusercontent.com/40127279/126853565-1a680fd3-3aaf-4081-a6a0-cc6a7a75f3e9.png">
-
 ### 1.英語と日本語のキーワードで起動させる
 　RunScriptのインプットとなるキーワードを2つ繋げるだけでOKです
 <br>　パラメータが全角の場合があることを考慮して、スクリプトで半角化しています
@@ -30,6 +27,11 @@
 　ワークフローのオブジェクトを使わずにスクリプトからOPENをしてみました
 <br>　英数字だけのURLならopenで良さそうです
 <br>　日本語がある場合は%エンコードが必要になりそうな気がします
+<br>
+<br>RunScript
+<br><img width="600" src="https://user-images.githubusercontent.com/40127279/126853565-1a680fd3-3aaf-4081-a6a0-cc6a7a75f3e9.png">
+
+
 #### 背景
 　趣味で一眼レフを使って風景写真を撮っています。
 <br>　写真の位置情報はスマホから取得する筈なのですが、スマホとカメラが連携する前に撮影が完了してしまい
