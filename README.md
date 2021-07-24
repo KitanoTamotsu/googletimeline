@@ -1,5 +1,10 @@
 ## 　　Lesson2.　入力パラメータを利用してURLを組み立てる
 #### 開発メモ
+ワークフロー
+<br><img width="600" src="https://user-images.githubusercontent.com/40127279/126853536-aaa978e7-db52-446e-9942-73c0781e7ef7.png">
+<br>RunScript
+<br><img width="600" src="https://user-images.githubusercontent.com/40127279/126853565-1a680fd3-3aaf-4081-a6a0-cc6a7a75f3e9.png">
+
 ### 1.英語と日本語のキーワードで起動させる
 　RunScriptのインプットとなるキーワードを2つ繋げるだけでOKです
 <br>　パラメータが全角の場合があることを考慮して、スクリプトで半角化しています
